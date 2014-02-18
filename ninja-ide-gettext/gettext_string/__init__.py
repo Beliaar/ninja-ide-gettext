@@ -1,0 +1,1 @@
+from gettext_string import GettextString
